@@ -1,2 +1,3 @@
-# 2decembris_RObertsM.3
-Dzejolis
+zāle ir zaļa,
+sniegs ir balts,
+ziemassvētki nāk
