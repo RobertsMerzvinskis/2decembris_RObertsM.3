@@ -1,4 +1,4 @@
 zāle ir zaļa,
 sniegs ir balts,
-ziemassvētki nāk
-visi priecīgi
+ziemassvētki nāk,
+visi priecīgi.
